@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LapTrinhAndroid_Test_KTCK</string>
+    <string name="exit"><u>Exit</u></string>
+    <string name="logout"><u>log out</u></string>
+</resources>
